@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-10-30T04:11:51.065Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-08-01T16:31:03.056Z",
+      "last_pushed_at": "2026-08-01T16:31:03.056Z",
+      "language": "python",
+      "lines": 10
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-08-01T17:21:11.728Z",
+      "last_pushed_at": "2026-08-01T17:21:11.728Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-08-01T17:22:36.727Z",
+      "last_pushed_at": "2026-08-01T17:22:36.727Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-08-01T17:33:44.304Z",
+      "last_pushed_at": "2026-08-01T17:33:44.304Z",
+      "language": "python",
+      "lines": 22
+    }
+  }
+}
