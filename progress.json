@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:11:51.065Z",
+  "generated_at": "2026-10-30T04:11:52.833Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -50,6 +50,43 @@
       "last_pushed_at": "2026-08-01T17:33:44.304Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-08-02T17:00:02.324Z",
+      "last_pushed_at": "2026-08-02T17:00:02.324Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-08-02T18:07:02.101Z",
+      "last_pushed_at": "2026-08-02T18:07:02.101Z",
+      "language": "python",
+      "lines": 36
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-08-02T18:15:05.721Z",
+      "last_pushed_at": "2026-08-02T18:15:05.721Z"
     }
   }
 }
