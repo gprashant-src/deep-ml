@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:11:56.199Z",
+  "generated_at": "2026-10-30T04:11:57.828Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -133,6 +133,97 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-08-10T08:58:19.183Z",
       "last_pushed_at": "2026-08-10T08:58:19.183Z"
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-10-28T15:40:37.710Z",
+      "last_pushed_at": "2026-10-28T15:40:37.710Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-10-28T16:01:14.702Z",
+      "last_pushed_at": "2026-10-28T16:01:14.702Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-10-28T16:21:20.935Z",
+      "last_pushed_at": "2026-10-28T16:21:20.935Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-10-28T16:33:56.094Z",
+      "last_pushed_at": "2026-10-28T16:33:56.094Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-10-28T16:57:13.174Z",
+      "last_pushed_at": "2026-10-28T16:57:13.174Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-10-28T17:18:32.256Z",
+      "last_pushed_at": "2026-10-28T17:18:32.256Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:221": {
+      "kind": "problem",
+      "id": "221",
+      "title": "Newton's Method for Optimization",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/221",
+      "path": "problems/0221-newton-s-method-for-optimization",
+      "first_solved_at": "2026-10-28T17:50:43.960Z",
+      "last_pushed_at": "2026-10-28T17:50:43.960Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
