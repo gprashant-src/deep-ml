@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:11:57.828Z",
+  "generated_at": "2026-10-30T04:11:59.663Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -224,6 +224,84 @@
       "last_pushed_at": "2026-10-28T17:50:43.960Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-10-29T03:51:52.721Z",
+      "last_pushed_at": "2026-10-29T03:51:52.721Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-10-29T14:20:46.319Z",
+      "last_pushed_at": "2026-10-29T14:20:46.319Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-10-29T15:15:34.122Z",
+      "last_pushed_at": "2026-10-29T15:15:34.122Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:355": {
+      "kind": "problem",
+      "id": "355",
+      "title": "Outlier Detection and Removal Using IQR Method",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/355",
+      "path": "problems/0355-outlier-detection-and-removal-using-iqr-method",
+      "first_solved_at": "2026-10-29T15:43:19.443Z",
+      "last_pushed_at": "2026-10-29T15:43:19.443Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-10-29T15:46:03.923Z",
+      "last_pushed_at": "2026-10-29T15:46:03.923Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:357": {
+      "kind": "problem",
+      "id": "357",
+      "title": "Handle Imbalanced Data with SMOTE",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/357",
+      "path": "problems/0357-handle-imbalanced-data-with-smote",
+      "first_solved_at": "2026-10-29T16:10:47.102Z",
+      "last_pushed_at": "2026-10-29T16:10:47.102Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
