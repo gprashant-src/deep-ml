@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:12:01.326Z",
+  "generated_at": "2026-10-30T04:12:02.952Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -23,7 +23,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-08-01T17:21:11.728Z",
-      "last_pushed_at": "2026-08-01T17:21:11.728Z"
+      "last_pushed_at": "2026-10-30T04:12:02.951Z"
     },
     "problem:116": {
       "kind": "problem",
@@ -86,7 +86,7 @@
       "url": "https://www.deep-ml.com/math-problems/2",
       "path": "math/0002-multivariate-calculus",
       "first_solved_at": "2026-08-02T18:15:05.721Z",
-      "last_pushed_at": "2026-08-02T18:15:05.721Z"
+      "last_pushed_at": "2026-10-30T04:12:02.951Z"
     },
     "problem:3": {
       "kind": "problem",
@@ -110,7 +110,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-08-10T08:48:00.234Z",
-      "last_pushed_at": "2026-08-10T08:48:00.234Z"
+      "last_pushed_at": "2026-10-30T04:12:02.951Z"
     },
     "math:9": {
       "kind": "math",
@@ -121,7 +121,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-08-10T08:50:38.154Z",
-      "last_pushed_at": "2026-08-10T08:50:38.154Z"
+      "last_pushed_at": "2026-10-30T04:12:02.951Z"
     },
     "math:10": {
       "kind": "math",
@@ -132,7 +132,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-08-10T08:58:19.183Z",
-      "last_pushed_at": "2026-08-10T08:58:19.183Z"
+      "last_pushed_at": "2026-10-30T04:12:02.951Z"
     },
     "problem:127": {
       "kind": "problem",
