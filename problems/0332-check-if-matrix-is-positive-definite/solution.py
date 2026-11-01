@@ -16,5 +16,5 @@ def check_positive_definite(matrix: list) -> dict:
 
     return {
         "is_positive_definite": bool(np.allclose(A, A.T) and np.all(E > 0)), 
-        "eigenvalues": list(np.sort(np.round(E, 4)))
+        "eigenvalues": np.sort(np.round(E, 4)).tolist()
     }
