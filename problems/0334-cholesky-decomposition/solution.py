@@ -29,12 +29,7 @@ def cholesky_decomposition(A):
     L = np.zeros((m, m), dtype=float)
 
     for j in range(m):
-        for i in range(j, m):
-            if j == i:
-                L[j][j] = np.sqrt(
-                    A[j][j] - sum(L[j][k] ** 2 for k in range(j))
-                )
-            else:
-                L[i][j] = (A[i][j] - sum(L[i][k] * L[j][k] for k in range(j))) / L[j][j]
+        L[j, j] = np.sqrt(A[j, j] - L[j, :j] @ L[j, :j])
+        L[j + 1:, j] = (A[j + 1:, j] - L[j + 1:, :j] @ L[j, :j]) / L[j, j]
     
     return L.tolist()
