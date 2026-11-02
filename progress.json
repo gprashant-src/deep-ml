@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:50:50.490Z",
+  "generated_at": "2026-11-02T15:21:29.438Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -575,6 +575,19 @@
       "last_pushed_at": "2026-11-02T14:50:49.347Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:869": {
+      "kind": "problem",
+      "id": "869",
+      "title": "Subspace Amplification of Pretrained Weights by a Low-Rank Update",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/869",
+      "path": "problems/0869-subspace-amplification-of-pretrained-weights-by-a-low-rank-update",
+      "first_solved_at": "2026-11-02T15:21:28.290Z",
+      "last_pushed_at": "2026-11-02T15:21:28.290Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
