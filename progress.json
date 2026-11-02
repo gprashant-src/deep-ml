@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:27:47.815Z",
+  "generated_at": "2026-11-02T15:38:21.412Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -601,6 +601,19 @@
       "last_pushed_at": "2026-11-02T15:27:46.631Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:875": {
+      "kind": "problem",
+      "id": "875",
+      "title": "Compute Grassmann Distance Between Subspaces",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/875",
+      "path": "problems/0875-compute-grassmann-distance-between-subspaces",
+      "first_solved_at": "2026-11-02T15:38:20.099Z",
+      "last_pushed_at": "2026-11-02T15:38:20.099Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
