@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**46** solved · 41 problems · 0 labs · 5 math
+**47** solved · 42 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sinkhorn-Knopp Doubly Stochastic Projection](https://www.deep-ml.com/problems/732) | medium | 2026-11-01 | [solution](problems/0732-sinkhorn-knopp-doubly-stochastic-projection) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-30 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Subspace Amplification of Pretrained Weights by a Low-Rank Update](https://www.deep-ml.com/problems/869) | medium | 2026-11-02 | [solution](problems/0869-subspace-amplification-of-pretrained-weights-by-a-low-rank-update) |
+| [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-11-02 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 
 ## Math
 
