@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**48** solved · 43 problems · 0 labs · 5 math
+**49** solved · 44 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-03 | [solution](problems/0003-reshape-matrix) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-11-01 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-30 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-11-02 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-10-31 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-30 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
