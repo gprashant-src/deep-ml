@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:28:36.242Z",
+  "generated_at": "2026-11-03T15:11:05.730Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -718,6 +718,19 @@
       "last_pushed_at": "2026-11-03T14:28:34.438Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1772": {
+      "kind": "problem",
+      "id": "1772",
+      "title": "Top-k Eigenpairs by Power Iteration with Deflation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1772",
+      "path": "problems/1772-top-k-eigenpairs-by-power-iteration-with-deflation",
+      "first_solved_at": "2026-11-03T15:11:04.281Z",
+      "last_pushed_at": "2026-11-03T15:11:04.281Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
