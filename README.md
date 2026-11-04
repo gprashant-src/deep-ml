@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**59** solved · 54 problems · 0 labs · 5 math
+**60** solved · 55 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Scatter-Add into Bins](https://www.deep-ml.com/problems/1283) | medium | 2026-11-02 | [solution](problems/1283-tensor-puzzle-scatter-add-into-bins) |
 | [Top-k Eigenpairs by Power Iteration with Deflation](https://www.deep-ml.com/problems/1772) | medium | 2026-11-03 | [solution](problems/1772-top-k-eigenpairs-by-power-iteration-with-deflation) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-11-02 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
+| [Woodbury, Sherman-Morrison and the Determinant Lemma](https://www.deep-ml.com/problems/1774) | medium | 2026-11-04 | [solution](problems/1774-woodbury-sherman-morrison-and-the-determinant-lemma) |
 
 ## Math
 
