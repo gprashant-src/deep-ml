@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:50:22.215Z",
+  "generated_at": "2026-11-04T16:20:43.947Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -744,6 +744,19 @@
       "last_pushed_at": "2026-11-04T15:50:20.180Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:1773": {
+      "kind": "problem",
+      "id": "1773",
+      "title": "PCA and ZCA Whitening",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1773",
+      "path": "problems/1773-pca-and-zca-whitening",
+      "first_solved_at": "2026-11-04T16:20:42.201Z",
+      "last_pushed_at": "2026-11-04T16:20:42.201Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
