@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:27:44.936Z",
+  "generated_at": "2026-11-05T17:00:16.686Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -770,6 +770,19 @@
       "last_pushed_at": "2026-11-04T17:27:43.207Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:1778": {
+      "kind": "problem",
+      "id": "1778",
+      "title": "Hutchinson Trace and Frobenius Estimators from a Matvec Oracle",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1778",
+      "path": "problems/1778-hutchinson-trace-and-frobenius-estimators-from-a-matvec-oracle",
+      "first_solved_at": "2026-11-05T17:00:16.266Z",
+      "last_pushed_at": "2026-11-05T17:00:16.266Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
