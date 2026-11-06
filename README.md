@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**63** solved · 58 problems · 0 labs · 5 math
+**64** solved · 59 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-10-29 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-11-03 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-28 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-06 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [PCA and ZCA Whitening](https://www.deep-ml.com/problems/1773) | medium | 2026-11-04 | [solution](problems/1773-pca-and-zca-whitening) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-08-02 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-02 | [solution](problems/0312-quotient-rule-for-derivatives) |
