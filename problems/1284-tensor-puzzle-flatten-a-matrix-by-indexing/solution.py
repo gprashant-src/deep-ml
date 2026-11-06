@@ -4,11 +4,12 @@ def flatten(A: np.ndarray) -> np.ndarray:
     """Row-major flatten of 2-D array A without reshape/ravel."""
     # Your code here
     rows, cols = A.shape
+    total = rows * cols
 
-    res = np.zeros(rows*cols, dtype=float)
+    idx = np.arange(total)
 
-    j = 0
-    for i in range(rows):
-        res[j:j + cols] = A[i]
-        j += cols
-    return res
+    row_idx = idx // cols
+    col_idx = idx % cols
+
+    return A[row_idx, col_idx]
+

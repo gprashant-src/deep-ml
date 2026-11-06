@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:44:59.784Z",
+  "generated_at": "2026-11-06T15:48:38.646Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -832,9 +832,9 @@
       "url": "https://www.deep-ml.com/problems/1284",
       "path": "problems/1284-tensor-puzzle-flatten-a-matrix-by-indexing",
       "first_solved_at": "2026-11-06T15:44:58.477Z",
-      "last_pushed_at": "2026-11-06T15:44:58.477Z",
+      "last_pushed_at": "2026-11-06T15:48:37.690Z",
       "language": "python",
-      "lines": 15
+      "lines": 16
     }
   }
 }
