@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**62** solved · 57 problems · 0 labs · 5 math
+**63** solved · 58 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-28 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-11-01 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
+| [Cholesky at Work: Triangular Solves, Log-Determinant and MVN Sampling](https://www.deep-ml.com/problems/1776) | medium | 2026-11-06 | [solution](problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-01 | [solution](problems/0334-cholesky-decomposition) |
 | [Compute Grassmann Distance Between Subspaces](https://www.deep-ml.com/problems/875) | medium | 2026-11-02 | [solution](problems/0875-compute-grassmann-distance-between-subspaces) |
 | [Compute Normalized Subspace Similarity Between Low-Rank Matrices](https://www.deep-ml.com/problems/868) | medium | 2026-11-02 | [solution](problems/0868-compute-normalized-subspace-similarity-between-low-rank-matrices) |
