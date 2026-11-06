@@ -28,7 +28,7 @@ def svd_2x2(A: np.ndarray) -> tuple:
     E = E[idx]
     V = V[:, idx]
 
-    # V = gram_schmidt(V)
+    V = gram_schmidt(V)
 
     sigma = np.sqrt(E)
     sigma_inv = 1.0 / sigma
