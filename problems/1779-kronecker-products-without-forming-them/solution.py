@@ -6,15 +6,14 @@ def kron_matvec(A, B, C):
     return res.reshape(-1, order="F")
 
 def kron_solve(A, B, y):
-    l = len(y)
+    n = A.shape[0]
     q = B.shape[0]
-    n = l // q
 
     y = y.reshape(q, n, order="F")
     x1 = np.linalg.solve(B, y)
     
     x2 = np.linalg.solve(A, x1.T)
-    return x2.T.reshape(-1, order="F")
+    return x2.ravel(order="C")
 
 
 def bow_logits(S, W, V):

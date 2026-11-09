@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:17:05.392Z",
+  "generated_at": "2026-11-09T13:19:21.450Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -949,9 +949,9 @@
       "url": "https://www.deep-ml.com/problems/1779",
       "path": "problems/1779-kronecker-products-without-forming-them",
       "first_solved_at": "2026-11-09T13:17:03.935Z",
-      "last_pushed_at": "2026-11-09T13:17:03.935Z",
+      "last_pushed_at": "2026-11-09T13:19:20.076Z",
       "language": "python",
-      "lines": 22
+      "lines": 21
     }
   }
 }
