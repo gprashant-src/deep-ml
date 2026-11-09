@@ -25,18 +25,12 @@ class NaiveBayes():
 
     def predict(self, X):
         # Predict class labels for test set X
-        log_p1 = self.model.copy()
-        log_p0 = np.log1p(-np.exp(self.model))
+        log_p1 = self.model
+        log_p0 = np.log1p(-np.exp(log_p1))
 
-
-        log_likelihood = (
-            X[:, None, :] * log_p1[None, :, :]
-            + (1 - X[:, None, :]) * log_p0[None, :, :]
-        )
-
-        S = log_likelihood.sum(axis=2)
-
-        scores = S + self.counts[None, :]
+        scores = X @ (log_p1 - log_p0).T
+        scores += log_p0.sum(axis=1)
+        scores += self.counts
 
         return self.classes[np.argmax(scores, axis=1)]
         
