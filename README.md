@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**87** solved · 82 problems · 0 labs · 5 math
+**88** solved · 83 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-11-02 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-10-31 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-11-09 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
+| [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-11-10 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-30 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-28 | [solution](problems/0214-chain-rule-for-composite-functions) |
