@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**104** solved · 99 problems · 0 labs · 5 math
+**105** solved · 100 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Repeat a Vector as Rows](https://www.deep-ml.com/problems/1287) | easy | 2026-11-10 | [solution](problems/1287-tensor-puzzle-repeat-a-vector-as-rows) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-11-01 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-11 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
+| [Tensor Puzzle: Upper-Triangular Ones Matrix](https://www.deep-ml.com/problems/1273) | easy | 2026-11-11 | [solution](problems/1273-tensor-puzzle-upper-triangular-ones-matrix) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-11-09 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-10 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-11-10 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
