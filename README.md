@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**99** solved · 94 problems · 0 labs · 5 math
+**100** solved · 95 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-11-02 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-01 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-11-01 | [solution](problems/0329-matrix-rank) |
+| [Memory Complexity: Full Space-Time vs. ST-Factorized Attention](https://www.deep-ml.com/problems/725) | medium | 2026-11-11 | [solution](problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-11-02 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-10-28 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-10-29 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |

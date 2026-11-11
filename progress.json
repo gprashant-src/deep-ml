@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:20:21.081Z",
+  "generated_at": "2026-11-11T02:24:41.848Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1277,6 +1277,19 @@
       "last_pushed_at": "2026-11-10T16:20:20.185Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:725": {
+      "kind": "problem",
+      "id": "725",
+      "title": "Memory Complexity: Full Space-Time vs. ST-Factorized Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/725",
+      "path": "problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention",
+      "first_solved_at": "2026-11-11T02:24:40.400Z",
+      "last_pushed_at": "2026-11-11T02:24:40.400Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
