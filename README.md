@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**106** solved · 101 problems · 0 labs · 5 math
+**107** solved · 102 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-11-09 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-10-30 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-03 | [solution](problems/0003-reshape-matrix) |
+| [Row-Normalize a Count Matrix to Probabilities](https://www.deep-ml.com/problems/985) | easy | 2026-11-11 | [solution](problems/0985-row-normalize-a-count-matrix-to-probabilities) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-11-09 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Tensor Puzzle: Circular Roll by One](https://www.deep-ml.com/problems/1277) | easy | 2026-11-10 | [solution](problems/1277-tensor-puzzle-circular-roll-by-one) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-11-10 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
