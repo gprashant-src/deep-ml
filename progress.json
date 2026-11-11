@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:40:31.322Z",
+  "generated_at": "2026-11-11T18:06:11.569Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1355,6 +1355,19 @@
       "last_pushed_at": "2026-11-11T17:40:31.083Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:1276": {
+      "kind": "problem",
+      "id": "1276",
+      "title": "Tensor Puzzle: Stack Two Vectors as Rows",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1276",
+      "path": "problems/1276-tensor-puzzle-stack-two-vectors-as-rows",
+      "first_solved_at": "2026-11-11T18:06:11.588Z",
+      "last_pushed_at": "2026-11-11T18:06:11.588Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
