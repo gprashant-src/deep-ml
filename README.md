@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**111** solved · 106 problems · 0 labs · 5 math
+**112** solved · 107 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-11-02 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-01 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-11-01 | [solution](problems/0329-matrix-rank) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-12 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-12 | [solution](problems/0007-matrix-transformation) |
 | [Memory Complexity: Full Space-Time vs. ST-Factorized Attention](https://www.deep-ml.com/problems/725) | medium | 2026-11-11 | [solution](problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-11-02 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
