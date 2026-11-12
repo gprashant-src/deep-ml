@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**108** solved · 103 problems · 0 labs · 5 math
+**109** solved · 104 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-01 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-29 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-11-09 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
+| [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-11-12 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-10-30 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-03 | [solution](problems/0003-reshape-matrix) |
 | [Row-Normalize a Count Matrix to Probabilities](https://www.deep-ml.com/problems/985) | easy | 2026-11-11 | [solution](problems/0985-row-normalize-a-count-matrix-to-probabilities) |

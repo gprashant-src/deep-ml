@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T02:55:45.684Z",
+  "generated_at": "2026-11-12T03:05:21.409Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1394,6 +1394,19 @@
       "last_pushed_at": "2026-11-12T02:55:44.457Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1190": {
+      "kind": "problem",
+      "id": "1190",
+      "title": "Random Rotation Matrix and a Rotation Layer",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1190",
+      "path": "problems/1190-random-rotation-matrix-and-a-rotation-layer",
+      "first_solved_at": "2026-11-12T03:05:19.853Z",
+      "last_pushed_at": "2026-11-12T03:05:19.853Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
