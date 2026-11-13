@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (81/81) · Calculus (9/9)
 
-**115** solved · 110 problems · 0 labs · 5 math
+**116** solved · 111 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Flatten a Matrix by Indexing](https://www.deep-ml.com/problems/1284) | medium | 2026-11-06 | [solution](problems/1284-tensor-puzzle-flatten-a-matrix-by-indexing) |
 | [Tensor Puzzle: Scatter-Add into Bins](https://www.deep-ml.com/problems/1283) | medium | 2026-11-02 | [solution](problems/1283-tensor-puzzle-scatter-add-into-bins) |
 | [Top-k Eigenpairs by Power Iteration with Deflation](https://www.deep-ml.com/problems/1772) | medium | 2026-11-03 | [solution](problems/1772-top-k-eigenpairs-by-power-iteration-with-deflation) |
+| [Triton: DSpark Confidence Prefix Lengths](https://www.deep-ml.com/problems/1645) | medium | 2026-11-13 | [solution](problems/1645-triton-dspark-confidence-prefix-lengths) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-11-02 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Woodbury, Sherman-Morrison and the Determinant Lemma](https://www.deep-ml.com/problems/1774) | medium | 2026-11-04 | [solution](problems/1774-woodbury-sherman-morrison-and-the-determinant-lemma) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-06 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |

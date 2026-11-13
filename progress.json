@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:53:52.394Z",
+  "generated_at": "2026-11-13T02:19:09.235Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1485,6 +1485,19 @@
       "last_pushed_at": "2026-11-12T16:27:45.408Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1645": {
+      "kind": "problem",
+      "id": "1645",
+      "title": "Triton: DSpark Confidence Prefix Lengths",
+      "difficulty": "medium",
+      "category": "Triton",
+      "url": "https://www.deep-ml.com/problems/1645",
+      "path": "problems/1645-triton-dspark-confidence-prefix-lengths",
+      "first_solved_at": "2026-11-13T02:19:07.940Z",
+      "last_pushed_at": "2026-11-13T02:19:07.940Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
