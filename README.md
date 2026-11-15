@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (81/81) · Calculus (9/9)
 
-**118** solved · 113 problems · 0 labs · 5 math
+**119** solved · 114 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -103,6 +103,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-28 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-06 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [PCA and ZCA Whitening](https://www.deep-ml.com/problems/1773) | medium | 2026-11-04 | [solution](problems/1773-pca-and-zca-whitening) |
+| [Pooled Mean and Pooled Standard Deviation from Summary Stats](https://www.deep-ml.com/problems/1244) | medium | 2026-11-15 | [solution](problems/1244-pooled-mean-and-pooled-standard-deviation-from-summary-stats) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-08-02 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-02 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Robust Line Fitting: Least Absolute Deviations by LP and Huber by IRLS](https://www.deep-ml.com/problems/1818) | medium | 2026-11-08 | [solution](problems/1818-robust-line-fitting-least-absolute-deviations-by-lp-and-huber-by-irls) |
