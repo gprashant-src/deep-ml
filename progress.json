@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:50:17.127Z",
+  "generated_at": "2026-11-16T02:55:50.388Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1537,6 +1537,19 @@
       "last_pushed_at": "2026-11-15T02:50:16.272Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:1690": {
+      "kind": "problem",
+      "id": "1690",
+      "title": "Order-n Polynomial Basis for Value Prediction",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1690",
+      "path": "problems/1690-order-n-polynomial-basis-for-value-prediction",
+      "first_solved_at": "2026-11-16T02:55:49.013Z",
+      "last_pushed_at": "2026-11-16T02:55:49.013Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
